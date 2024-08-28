@@ -1,0 +1,5 @@
+.env
+db.sqlite3
+backend\__pycache__
+api\__pycache__
+api\migrations\__pycache__
